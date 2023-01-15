@@ -28,12 +28,12 @@ On other Linux distributions you may need a different command.
 
 Then use pip3 to install the source code in this repository:
 ```
-sudo pip3 install git+https://github.com/0-duke/wdpassport-utils
+sudo pip3 install git+https://github.com/umeshperera/wdpassport-utils
 ```
 
 and install the required "py_sg" module for Python3:
 ```
-sudo pip3 install --user git+https://github.com/crypto-universe/py_sg
+sudo python3 -m pip install py3_sg
 ```
 
 ## Usage
